@@ -1,5 +1,7 @@
 ### Reading Large Dataset with 1M+ rows
 ### Filename = Business_Licenses.csv
+### Author = Andrew Afable
+### Date = April 22, 2022
 
 ##1. Import the library
 import time
