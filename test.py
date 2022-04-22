@@ -1,6 +1,6 @@
 ### Reading Large Dataset with 1M+ rows
 ### Filename = Business_Licenses.csv
-
+### Author = Andrew Afable
 ##1. Import the library
 import time
 ##2.  Define the filename
